@@ -2,12 +2,9 @@
 
 I'm a Backend Developer and student with professional experience building full-stack learning management systems and collaborating with other teams.
 
-## I'm a Student and Developer!!
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: Get an Internship!!
-
 
 ### Languages and Tools:
 
@@ -27,9 +24,11 @@ I'm a Backend Developer and student with professional experience building full-s
 
 ### Currently learning at Boot.dev
 
-<a align="left" href="https://www.boot.dev/u/bepramudya" target="_blank" rel="nofollow">
+<a align="left" href="https://www.boot.dev/u/bepramudya/" target="_blank" rel="nofollow">
   <img width="320px" src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail">
 </a>
+
+<br />
 
 <!--
 **bePramudya/bePramudya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
