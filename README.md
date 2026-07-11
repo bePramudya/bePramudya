@@ -11,10 +11,10 @@
 <br />
 <br />
 
-### Currently learning at:
+### Currently learning at Boot.dev
 
-<p align="left" width="120px">
-  <img src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail" >
+<p align="left">
+  [<img width="120px" src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail" >](https://www.boot.dev/u/bepramudya)
 </p>
 
 <!--
