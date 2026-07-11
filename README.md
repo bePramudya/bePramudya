@@ -13,7 +13,7 @@
 
 ### Currently learning at Boot.dev
 
-<a align="left" href="https://www.boot.dev/u/bepramudya">
+<a align="left" href="https://www.boot.dev/u/bepramudya" rel="_blank">
   <img width="300px" src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail" >
 </a>
 
