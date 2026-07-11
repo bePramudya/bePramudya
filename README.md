@@ -2,10 +2,6 @@
 
 I'm a Backend Developer and student with professional experience building full-stack learning management systems and collaborating with other teams.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2026 Goals: Get an Internship!!
-
 ### Languages and Tools:
 
 ![Express](https://img.shields.io/badge/express-%230A0A0A.svg?style=for-the-badge&logo=express&logoColor=white)
