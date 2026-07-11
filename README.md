@@ -13,9 +13,9 @@
 
 ### Currently learning at Boot.dev
 
-<p align="left">
-  [<img width="120px" src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail" >](https://www.boot.dev/u/bepramudya)
-</p>
+<a align="left" href="https://www.boot.dev/u/bepramudya">
+  [<img width="240px" src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail" >
+</a>
 
 <!--
 **bePramudya/bePramudya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
