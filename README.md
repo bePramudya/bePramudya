@@ -25,8 +25,10 @@ I'm a Backend Developer and student with professional experience building full-s
   <img width="320px" src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail">
 </a>
 
-#### [Laracast](https://laracasts.com/@bePramudya)
-
+#### Laracast
+<a align="left" href="https://laracasts.com/@bePramudya" target="_blank" rel="nofollow">
+  <img width="600px" src="images/Laracast-Profile.png">
+</a>
 
 <br />
 
