@@ -18,11 +18,15 @@ I'm a Backend Developer and student with professional experience building full-s
 ![Bash](https://img.shields.io/badge/bash-%230A0A0A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-### Currently learning at Boot.dev
+### Currently learning at: 
 
+#### Boot.dev
 <a align="left" href="https://www.boot.dev/u/bepramudya/" target="_blank" rel="nofollow">
   <img width="320px" src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail">
 </a>
+
+#### [Laracast](https://laracasts.com/@bePramudya)
+
 
 <br />
 
