@@ -20,14 +20,9 @@ I'm a Backend Developer and student with professional experience building full-s
 
 ### Currently learning at: 
 
-#### Boot.dev
+#### Boot.dev (Click iamge to see details)
 <a align="left" href="https://www.boot.dev/u/bepramudya/" target="_blank" rel="nofollow">
   <img width="320px" src="https://api.boot.dev/v1/users/public/c9036c56-2c41-4247-8df7-97cf48eeb98d/thumbnail">
-</a>
-
-#### Laracast
-<a align="left" href="https://laracasts.com/@bePramudya" target="_blank" rel="nofollow">
-  <img width="600px" src="images/Laracast-Profile.png">
 </a>
 
 <br />
